@@ -7,6 +7,7 @@ import java.util.Set;
 import concepts.high.AdoptableThought;
 import concepts.high.Argument;
 import concepts.high.BaselessIdea;
+import concepts.high.Suggestible;
 import creatures.Mammal;
 import institutions.Education;
 

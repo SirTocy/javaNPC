@@ -1,6 +1,4 @@
-package characters;
-
-import concepts.high.BaselessIdea;
+package concepts.high;
 
 /**
  * 
